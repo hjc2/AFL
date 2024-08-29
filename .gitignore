@@ -1,4 +1,6 @@
 Include/
 Scripts/
 Lib/
+afl/
 pyvenv.cfg
+__pycache__/cifar.cpython-310.pyc
